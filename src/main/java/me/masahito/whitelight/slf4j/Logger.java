@@ -30,7 +30,7 @@ import org.slf4j.Marker;
 import org.slf4j.spi.LocationAwareLogger;
 
 /**
- * The [White Light SLF4J] package provides a very thin SLF4J wrapper
+ * The [White Light SLF4J] package provides a very thin SLF4J wrapper.
  * It is released under a MIT license.
  *
  *  * example:
